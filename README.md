@@ -1,68 +1,73 @@
 # Hi, I'm Meeit 👋
 
-## Business & Data Analyst | SQL • Python • Tableau • Power BI
 
-I’m a data-driven Business/Data Analyst focused on turning messy data into clear business insights.  
-I work at the intersection of **analytics, operations, and decision-making** — not just dashboards for the sake of dashboards.
+### 📊 Business & Data Analyst  
+**SQL • Python • Tableau • Power BI**
 
----
-
-### 🔍 What I Actually Do
-- Analyze business and healthcare datasets to uncover trends, inefficiencies, and opportunities
-- Translate vague business questions into **clear analytical requirements**
-- Build dashboards that **answer decisions**, not just look pretty
-- Communicate insights to non-technical stakeholders
+I turn **raw, messy data** into **clear business decisions**.  
+My focus is analytics that drive action — not dashboards built just to exist.
 
 ---
 
-### 🧠 Skills That Matter
-**Analytics & Data**
-- SQL (joins, CTEs, window functions)
-- Python (pandas, numpy, data cleaning)
-- Excel (advanced formulas, pivot tables)
-- Data validation & quality checks
-
-**Visualization & BI**
-- Tableau (dashboards, storytelling, calculated fields)
-- Power BI (DAX, data modeling)
-- KPI design & performance tracking
-
-**Business & Domain**
-- Business requirements gathering
-- Process optimization
-- Stakeholder communication
-- Healthcare data analysis (claims, utilization, outcomes)
+## 🧭 What I Do
+📌 Translate business problems into analytical questions  
+📌 Analyze business & healthcare datasets for trends and inefficiencies  
+📌 Build decision-driven dashboards (not vanity metrics)  
+📌 Communicate insights to non-technical stakeholders  
 
 ---
 
-### 📊 Featured Projects
-🔹 **Healthcare Analytics Project**  
-- Analyzed patient and operational data using SQL & Tableau  
-- Identified utilization trends and cost drivers  
-- Built executive-level dashboards for decision support  
+## 🧠 Core Skills
 
-🔹 **Airbnb Market Analysis**  
-- Explored pricing, occupancy, and location trends  
-- Delivered insights to optimize revenue and demand strategy  
+### 🔢 Analytics & Data
+- 🧩 SQL (Joins, CTEs, Window Functions)
+- 📈 Excel (Advanced formulas, Pivot Tables)
+- ✅ Data Validation & Quality Checks
+- 🐍 Python (Pandas, NumPy, Data Cleaning)
+  
+### 📊 Visualization & BI
+- 📊 Tableau (Dashboards, Calculated Fields, Storytelling)
+- ⚡ Power BI (DAX, Data Modeling)
+- 🎯 KPI Design & Performance Tracking
 
-🔹 **Data Visualization Case Study**  
-- End-to-end analysis: problem → data → insight → recommendation  
-
-➡️ Check repositories below for **code, dashboards, and documentation**
-
----
-
-### 📌 What I’m Working On Now
-- Advanced SQL analytics
-- Business-focused Tableau storytelling
-- Realistic, messy datasets (because real jobs aren’t clean)
+### 🏥 Business & Domain
+- 📝 Business Requirements Gathering
+- 🔄 Process Optimization
+- 🗣️ Stakeholder Communication
+- 🏥 Healthcare Data Analysis (Claims, Utilization, Outcomes)
 
 ---
 
-### 🤝 Let’s Connect
-- LinkedIn: *www.linkedin.com/in/meeitanalysts*
-- Tableau Public: *https://public.tableau.com/app/profile/meeit.prajapati/vizzes*
-- Location: Houston, TX (open to analyst roles)
+## 🚀 Featured Projects
+
+### 🏥 Healthcare Analytics Project
+- 🧠 Analyzed patient & operational data using **SQL + Tableau**
+- 🔍 Identified utilization trends and cost drivers
+- 📊 Built executive-level dashboards for decision support
+
+### 🏡 Airbnb Market Analysis
+- 📍 Evaluated pricing, occupancy, and location trends
+- 💰 Delivered insights to improve revenue strategy
+
+### 🎨 Data Visualization Case Study
+- 🔁 End-to-end workflow: problem → data → insight → recommendation
+- 📌 Focused on clarity and stakeholder impact
+
+➡️ **Explore repositories below** for code, dashboards, and documentation
+
+---
+
+## 🛠️ Currently Working On
+⚙️ Advanced SQL analytics  
+⚙️ Business-focused Tableau storytelling  
+⚙️ Real-world, messy datasets (because that’s reality)
+
+---
+
+## 🤝 Connect With Me
+🔗 **LinkedIn:** *www.linkedin.com/in/meeitanalysts*  
+📊 **Tableau Public:** *https://public.tableau.com/app/profile/meeit.prajapati/vizzes*  
+📍 **Location:** Houston, TX (Open to Analyst Roles)
 
 ---
 
