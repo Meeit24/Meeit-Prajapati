@@ -60,8 +60,8 @@ I work at the intersection of **analytics, operations, and decision-making** —
 ---
 
 ### 🤝 Let’s Connect
-- LinkedIn: *(add link)*
-- Tableau Public: *(add link)*
+- LinkedIn: *www.linkedin.com/in/meeitanalysts*
+- Tableau Public: *https://public.tableau.com/app/profile/meeit.prajapati/vizzes*
 - Location: Houston, TX (open to analyst roles)
 
 ---
